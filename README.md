@@ -1,6 +1,6 @@
 Oficina de Git, GitHub e Introdução ao Ciclo de Entrega de Software
-Minhas Redes:
 
+Minhas Redes:
 [GitHub](https://github.com/seu-usuario)  
 [LinkedIn](https://linkedin.com/in/seu-perfil)
 
